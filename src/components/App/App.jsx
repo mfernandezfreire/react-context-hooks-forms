@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="container">
       <h1 className="display-4 text-center">
-        Just a practice for React Forms with HOOKS en la BRANCH de "Prueba"!!
+        Just a practice for React Forms with HOOKS en la BRANCH de "Prueba2"!!
       </h1>
       <Form />
     </div>
